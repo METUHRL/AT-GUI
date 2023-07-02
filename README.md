@@ -24,5 +24,5 @@ The individual functions can be found in [functions](https://github.com/METUHRL/
 | :warning: INFO & WARNINGS  |
 |:---------------------------|
 | The geometry file should include only one coordinate and triangulation matrices. | 
-| | 
+| The script utilized dictionaries. They require MATLAB version R2022b at least. | 
 
